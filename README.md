@@ -4,6 +4,6 @@ demo: https://forkify12.herokuapp.com/
 
 features:
 
-api call
+external api call
 
 MVC design structure
