@@ -1,6 +1,6 @@
 # forkify
 
-demo: https://photolink122.herokuapp.com/
+demo: https://forkify12.herokuapp.com/
 
 features:
 
